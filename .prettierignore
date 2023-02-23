@@ -1,0 +1,13 @@
+/ios
+/android
+/.bundle
+/build
+/vendor
+.eslintrc.js
+.prettierrc.js
+.watchmanconfig 1ms
+babel.config.js
+index.js
+metro.config.js
+package.js
+tsconfig.json
